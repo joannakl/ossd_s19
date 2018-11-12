@@ -1,0 +1,65 @@
+---
+layout: default
+days:
+#    - "01"
+#    - "02"
+#    - "03"
+#    - "04"
+#    - "05"
+#    - "06"
+#    - "07"
+#    - "08"
+#    - "09"
+#    - "10"
+#    - "11"
+#    - "12"
+#    - "NYC_OpenDataWeek"
+#    - "13"
+#    - "14"
+#    - "15"
+#    - "16"
+#    - "17"
+#    - "18"
+#    - "19"
+#    - "20"
+#    - "21"
+#    - "22"
+#    - "23"
+#    - "24"
+#    - "25"
+#    - "26"
+#    - "27"
+#s    - "28"
+
+---
+
+<div class="titles">
+    <div class="column_date">
+        Date
+    </div>
+
+    <div class="column_materials">
+        Material Covered, Notes, Handouts and Links
+    </div>
+
+    <div class="column_assign">
+        Readings, Assignments, Homework
+    </div>
+</div>
+
+{% comment %}
+
+{% endcomment %}
+
+
+
+{% for i in page.days reversed %}
+    {% assign file_name = "daily/" | append:  i  | append: ".markdown" %}
+    {% capture my_include %}{% include {{ file_name }} %}{% endcapture %}
+    {{ my_include | markdownify }}
+
+{% endfor %}
+
+
+<br>
+<br>

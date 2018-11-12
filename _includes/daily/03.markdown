@@ -1,0 +1,30 @@
+
+<div class="lecture1">
+
+<div class="column_date">
+
+Class # 3 <br> 
+Tue, 1/30 
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Invited speaker: __Tom Callaway__ from RedHat 
+
+
+</p>
+</div>
+
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+
+</p>
+</div>
+    
+</div>

@@ -1,0 +1,32 @@
+
+<div class="lecture1">
+
+<div class="column_date">
+
+Class # 27 <br>
+Tue, 5/1
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Project presentations:
+
+- django
+- therasology 
+
+</p>
+</div>
+
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+
+</p>
+</div>
+
+</div>

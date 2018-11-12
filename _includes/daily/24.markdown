@@ -1,0 +1,73 @@
+
+<div class="lecture2">
+<div class="column_date">
+
+Class # 24 <br>
+Thu, 4/19
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+(Software) Licenses
+
+[slides](slides/week12/licenses.html)
+
+Reading list:
+
+- [OSI Frequently Answered Questions](https://opensource.org/faq)
+
+- Wikipedia articles:
+  - [Software license](https://en.wikipedia.org/wiki/Software_license#Software_licenses_and_copyright_law)
+  - [Copyleft license](https://en.wikipedia.org/wiki/Copyleft)
+  - [Permissive software license](https://en.wikipedia.org/wiki/Permissive_software_licence)
+
+- [The Legal Side of Open Source](https://opensource.guide/legal/)
+
+
+- [What is copyleft?](https://opensource.com/resources/what-is-copyleft)
+by Ben Cotton
+
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+Complete __peer evaluations__ the link was sent to you through Piazza.
+
+
+__Blog posts for this week:__
+
+- report on team project progress - concentrating on your own contributions to the team
+
+- look at the license for the project that your team is working on and determine
+what are the rules established by that license (what can one do, what is not
+  allowed, what must one do)
+
+- You should also update your "contributions" table with any new contributions
+(do not include the team work in there).
+
+
+
+__Presentation content:__
+- brief intro to the project
+- how complicated was the installation of development environment
+- what went wrong
+- what went well
+- summary/descriptions of types of contributions that the team made
+- how easy was it to collaborate within the team
+- if you were doing this again, would you pick the same or different project
+
+
+
+
+
+</p>
+</div>
+
+</div>

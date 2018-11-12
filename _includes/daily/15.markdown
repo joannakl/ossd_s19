@@ -1,0 +1,32 @@
+
+<div class="lecture1">
+
+<div class="column_date">
+
+Class # 15 <br> 
+Tue, 3/20
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Exams returned. 
+
+Setting milestones for projects. 
+
+
+</p>
+</div>
+
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+
+</p>
+</div>
+    
+</div>

@@ -1,0 +1,44 @@
+
+<div class="lecture2">
+<div class="column_date">
+
+Class # 16 <br> 
+Thu, 3/22
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Mid-semester course evaluations.
+
+--- 
+
+Why did you pick the project you did? What makes good first projects?  - class discussion
+
+Humanitarian open source projects. 
+[slides](slides/week8/HFOSS.html)  
+
+Readings:
+
+- [Humanitarian Free and Open Source Software](http://www.timreview.ca/article/399) by Chamindra de Silva 
+
+- [Open Source for Humanitarian Action](https://ssir.org/articles/entry/open_source_for_humanitarian_action) by Brandon Keim 
+
+- [Open source job opportunities grow at crisis groups](https://opensource.com/article/17/3/crisis-solutions-humanitarian-open-source) by Kate Chapman 
+
+- [11 ways to get involved with Humanitarian FOSS](https://opensource.com/life/15/2/getting-involved-hfoss) by Heather Leson 
+
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+ 
+</p>
+</div>
+    
+</div>

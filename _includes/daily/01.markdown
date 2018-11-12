@@ -1,0 +1,53 @@
+<div class="lecture1">
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 1 <br> 
+Tue, 1/23 
+
+
+
+</p>
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Intro to the class.
+
+[Course logistics](slides/week1/course_logistics.html)  
+
+Material:
+
+- Videos: 
+    - [What is Open Source](https://youtu.be/7c0IrsDsNaw) by Mozilla
+        
+	Open source is a movement and a model -- for making and sharing collaboratively and publicly.
+    - [Open Source Basics](https://youtu.be/Tyd0FO0tko8) by Intel Software 
+        
+	A simple explanation of how open source projects manage change as well as the structure, 
+        roles, and terminology of open source software.
+- Readings:
+    - [{{ site.book_opt_1 }}]( {{ site.book_opt_1_link }}), chapter 1
+    - [{{ site.book_opt_1 }}]( {{ site.book_opt_1_link }}), chapter 3, IRC section (p. 66)
+    
+- For Windows users:
+    - [Windows Subsystem for Linux Documentation](https://docs.microsoft.com/en-us/windows/wsl/about) 
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+- complete this [questionnaire](https://goo.gl/forms/w53sDFkfXEzlrzNi2) - if you do not have a GitHub account, create one first
+
+
+
+
+
+</p>
+</div>
+
+</div>

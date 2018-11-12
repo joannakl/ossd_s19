@@ -1,0 +1,47 @@
+
+<div class="lecture1">
+
+<div class="column_date">
+
+Class # 7 <br> 
+Tue, 2/13 
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Bug trackers and issue trackers. 
+
+
+[slides](slides/week4/bug_tracker.html)  
+
+</p>
+</div>
+
+
+<div class="column_assign">
+<p markdown="block">
+
+Readings:
+    
+- [How to fix a bug in open source software](https://opensource.com/life/16/8/how-get-bugs-fixed-open-source-software) by Richard Schneeman 
+
+
+- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) by Simon Tatham 
+
+- plus all of the resources linked from the slides if you can
+
+Code triage: 
+- create CodeTriage.com account
+- pick a project or two or three
+- either wait for the emails with issues or start looking at the issues on the project pages
+- triage some reports 
+(Keep in mind that you are working in a real world! Be nice, be professional. )
+
+
+
+</p>
+</div>
+    
+</div>

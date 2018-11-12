@@ -1,0 +1,29 @@
+
+<div class="lecture1">
+
+<div class="column_date">
+
+Class # 13 <br> 
+Tue, 3/6 
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+
+
+</p>
+</div>
+
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+
+</p>
+</div>
+    
+</div>

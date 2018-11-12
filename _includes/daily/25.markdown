@@ -1,0 +1,33 @@
+
+<div class="lecture1">
+
+<div class="column_date">
+
+Class # 25 <br>
+Tue, 4/24
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Project presentations:
+
+- qutebrowser
+- phaser
+- jupyter
+
+</p>
+</div>
+
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+
+</p>
+</div>
+
+</div>

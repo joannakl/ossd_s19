@@ -1,0 +1,93 @@
+
+title: CSCI-UA 480 (Open Source Software Development)
+description: "Course website for CSCI-UA 480 (Open Source Software Development) course."
+
+baseurl: "/ossd_s19" # the subpath of your site, e.g. /blog
+url: "https://joannakl.github.io/ossd_s19" # the base hostname & protocol for your site, e.g. http://example.com
+
+markdown: kramdown
+kramdown:
+  entity_output: numeric
+  smart_quotes: apos,apos,quot,quot
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+
+
+course_number: "CSCI-UA 480"
+course_name: "Open Source Software Development"
+course_section: "010"
+course_semester: "Spring 2019"
+course_time: "<br>Mondays and Wednesdays 3:30pm - 4:45pm, CIWW, Room 517<br>"
+
+
+
+instructor_office_hours: "TBD,
+(or you can schedule an appointment if these times do not work for you)"
+instructor_office_hours_location: "423 CIWW"
+
+tutor_office_hours: ""
+tutor_name: ""
+
+
+tutor_location: ""
+tutor_schedule_link: ""
+
+
+current_course1_title: "CSCI 201 sec. 3"
+current_course1_link: "https://cs.nyu.edu/~joannakl/cs201_s19/"
+current_course2_title: "CSCI 480 sec. 4 (APS)"
+current_course2_link: "https://cs.nyu.edu/~joannakl/aps_s19/"
+current_course3_title: "CSCI 480 sec. 10 (OSSD)"
+current_course3_link: "https://cs.nyu.edu/~joannakl/ossd_s18/"
+
+midterm_exam_date: "TBD"
+final_exam_date: "TBD"
+final_exams_link: "http://cs.nyu.edu/dynamic/courses/exams/"
+
+piazza_site: https://piazza.com/
+gradescope_site: ""
+github_site: https://github.com/nyu-ossd-s19s/
+
+book_opt_1: "Producing Open Source Software, "
+book_opt_1_author: "Karl Fogel, "
+book_opt_1_edition: "2nd edition, "
+book_opt_1_link: "http://producingoss.com/"
+book_opt_1_note: ""
+book_opt_1_image: "http://producingoss.com/images/producingoss-cover-small.gif"
+
+
+book_opt_2: "The Architecture of Open Source Applications, "
+book_opt_2_author: "Amy Brown and Greg Wilson (editors), "
+book_opt_2_edition: ""
+book_opt_2_link: "http://www.aosabook.org/en/index.html"
+book_opt_2_note: ""
+book_opt_2_image: "http://www.aosabook.org/images/cover1.jpg"
+
+
+book_opt_3: "Practical Open Source Software Exploration, "
+book_opt_3_author: "Greg DeKoenigsberg, Chris Tyler, Karsten Wade, Max Spevack, Mel Chua, and Jeff Sheltren, "
+book_opt_3_edition: ""
+book_opt_3_link: "https://quaid.fedorapeople.org/TOS/Practical_Open_Source_Software_Exploration/html/"
+book_opt_3_note: "(it hasn't been updated since 2010, but there is some good stuff in there)"
+book_opt_3_image: ""
+
+
+
+
+book_opt_4: "The Linux Command Line, "
+book_opt_4_author: "William Shotts, "
+book_opt_4_edition: ""
+book_opt_4_link: "http://linuxcommand.org/tlcl.php"
+book_opt_4_note: ""
+book_opt_4_image: "http://linuxcommand.org/images/linuxcommandline.png"
+
+
+book_opt_5: "ProGit, "
+book_opt_5_author: "Scott Chacon and Ben Straub, "
+book_opt_5_edition: "2nd edition"
+book_opt_5_link: "https://git-scm.com/book/en/v2"
+book_opt_5_note: ""
+book_opt_5_image: "https://git-scm.com/images/progit2.png"

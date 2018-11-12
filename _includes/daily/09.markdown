@@ -1,0 +1,79 @@
+
+<div class="lecture1">
+
+<div class="column_date">
+
+Class # 9 <br> 
+Tue, 2/20 
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+- Website fixes discussion
+    - who should verify that the submitted changes work? when should it be verified? 
+    - who tested their changes before submitting a pull request? 
+    - how do we test changes in general? 
+    
+- Contributions going forward:
+    - each small contribution earns you 1 point
+    - goal for the end of the semester 20 points for small contributions (you can
+    make more of them, of course)
+    - what are contributions: 
+        - report issues (can be for the course website, but they need to be
+        non-trivial and you cannot be the one solving it), 
+        -comment on issues (can be for the course website related issues, but
+        they have to be substantial comments suggesting fixes and such), 
+        - solve course website related issues and submit a PR that is accepted, 
+        - contribute to WikiMedia projects, 
+        - contribute to OpenMaps project, 
+        - contribute to any Open... non-code writing project 
+    - limitations:
+        - max of 8 points can come from course website related contributions
+        - max of 5 points can come from Wikipedia related contributions 
+    - balance so far:
+        - most of you have a one Wikipedia contribution (1 point)
+        - most of you have three course website contributions: 
+            - report an issue (1 point), 
+            - comment on an issue (1 point),
+            - create a pull request for a fix (1 point), 
+    - whenever you make a small contribution, add it as a last entry in that week's blog
+    under the heading __My Contributions This Week__ - the listing should contain description
+    of your contribution and a link to it 
+    
+    
+    
+
+- The [etherpad](https://pad.riseup.net/p/ossd_projects) for today's class. 
+
+- In your group, work on the assigned project:
+    - locate information about contributing to the project
+    - as you go through the process, have one team-member enter comments
+    on the eherpad under your team's name (the comments should describe the steps you
+    followed, if they worked or not, and if they did not, what happened) 
+    - one team-member should start working on installing the development environment (this may be trivial or
+    complicated depending on the project) - make sure you include the descriptions of steps and issues
+    you encounter on the etherpad 
+    - look through the labels used in the project, find a label that suggests that it is a good
+    issue for beginners and then locate all the issues with that label 
+    - pick one of the issues from the previous step, add a link to it to the etherpad, study the issue, if
+    it is is a bug, are you able to reproduce it, if it has not been verified, try to verify it, if nobody commented
+    on it, see if you can add a constructive comment 
+    - repeat the previous step for a few issues 
+ 
+
+</p>
+</div>
+
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+
+</p>
+</div>
+    
+</div>

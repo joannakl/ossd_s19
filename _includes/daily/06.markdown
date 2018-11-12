@@ -1,0 +1,33 @@
+
+<div class="lecture2">
+
+<div class="column_date">
+
+Class # 6 <br> 
+Thu, 2/8 
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+[Project evaluation](https://github.com/nyu-ossd-s18/project_evaluation) - hands on activity. Work in groups of 3-4 students. 
+
+
+
+
+
+</p>
+</div>
+
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+
+</p>
+</div>
+    
+</div>

@@ -1,0 +1,30 @@
+
+<div class="lecture1">
+
+<div class="column_date">
+
+Class # 11 <br> 
+Tue, 2/27 
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Invited speaker: [__Aurelia Moser__](http://aureliamoser.com/) from Mozilla
+
+[slides](https://mzl.la/nyu-moz) 
+</p>
+</div>
+
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+
+</p>
+</div>
+    
+</div>

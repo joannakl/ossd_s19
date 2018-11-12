@@ -1,0 +1,271 @@
+/* Run 
+ *    lessc styles.less styles.css
+ * to generate the css file.
+ */
+/* Color schemes website:
+ *     http://colorschemedesigner.com  
+ */
+/*
+Color scheme: 
+*/
+html {
+  margin: 0;
+  height: 100%;
+}
+body {
+  margin: 0em;
+  padding: 0px;
+  border: 0px;
+}
+.hidden {
+  display: none;
+}
+p {
+  margin: 0px;
+  padding: 2px;
+  color: #000000;
+}
+a {
+  color: #000033;
+}
+a:hover {
+  text-decoration: underline;
+}
+h1 {
+  margin: 1em 1em 0.25em 0em;
+  padding: 2px;
+  font-size: 1.3em;
+  font-weight: bold;
+  color: #360066;
+}
+h2 {
+  margin: 0.75em 1em 0.25em 0em;
+  padding: 2px;
+  font-size: 1.2em;
+  font-weight: bold;
+  color: ##f2f6fc;
+}
+h3 {
+  margin: 0.5em 1em 0.25em 0em;
+  padding: 2px;
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #360066;
+}
+h4 {
+  margin: 0.5em 1em 0.25em 0em;
+  padding: 2px;
+  font-size: 1.0em;
+  font-weight: bold;
+  color: #360066;
+}
+/******************************************/
+header {
+  background: #c7c7c7;
+  padding: 3px 1em;
+  margin: 0;
+  color: #360066;
+}
+header h1 {
+  margin: 0em;
+  padding: 0px;
+  font-size: 2em;
+  font-weight: bold;
+  color: #360066;
+}
+/******************************************/
+nav {
+  background: #c7c7c7;
+  padding: 3px 1em;
+  margin: 0;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+nav li {
+  float: left;
+  font-weight: bold;
+  border: 1px solid #c7c7c7;
+}
+nav li a {
+  display: block;
+  color: #faf9fb;
+  background-color: #787878;
+  text-align: center;
+  padding: 0.5em 2em;
+  text-decoration: none;
+}
+nav li a:hover {
+  color: #332700;
+  background-color: #999999;
+  text-decoration: none;
+}
+/******************************************/
+aside {
+  background: #c7c7c7;
+  width: 20%;
+  float: right;
+  padding: 0.25em;
+}
+aside h1 {
+  margin: 0.25em 0.25em 0em 0em;
+}
+@media (max-width: 700px), (max-device-width: 720px) {
+  aside {
+    display: none;
+  }
+}
+/******************************************/
+main {
+  background: #ffffff;
+  padding: 1em;
+}
+main hr {
+  margin: 0;
+  padding: 0;
+  color: #360066;
+  background-color: #360066;
+  height: 3px;
+  width: 400px;
+  text-align: left;
+}
+main p {
+  margin: 0px;
+  padding: 2px;
+  color: #000000;
+}
+main p.hang {
+  padding: 2px 2px 2px 40px;
+  text-indent: -32px;
+}
+main .emph {
+  color: #360066;
+  font-weight: bold;
+  font-variant: small-caps;
+}
+main .name {
+  color: #360066;
+  font-variant: small-caps;
+}
+td {
+  padding: 1em;
+  vertical-align: top;
+}
+/**************/
+.lecture1 {
+  clear: left;
+  padding-bottom: 15px;
+  padding-top: 9px;
+  background-color: #f5f5f5;
+  border-top: 3px solid white;
+  overflow: hidden;
+}
+.lecture2 {
+  clear: left;
+  padding-bottom: 15px;
+  padding-top: 9px;
+  background-color: #e0e0e0;
+  border-top: 3px solid white;
+  overflow: hidden;
+}
+.titles {
+  clear: left;
+  padding-bottom: 15px;
+  padding-top: 9px;
+  background-color: #787878;
+  color: #faf5ff;
+  font-weight: bold;
+  border-top: 3px solid white;
+  overflow: hidden;
+}
+.important {
+  clear: left;
+  padding-bottom: 15px;
+  padding-top: 9px;
+  background-color: #cd9af9;
+  font-weight: bold;
+  border-top: 3px solid white;
+  overflow: hidden;
+}
+.change {
+  background-color: #ebdef8;
+}
+.column_date {
+  vertical-align: top;
+}
+.column_materials {
+  vertical-align: top;
+}
+.column_assign {
+  vertical-align: top;
+}
+@media (max-width: 700px) {
+  .column_date {
+    border-bottom: 2px dotted white;
+    font-weight: bold;
+  }
+  .column_materials {
+    border-bottom: 2px dotted white;
+    padding-top: 3px;
+  }
+  .column_assign {
+    padding-top: 3px;
+  }
+}
+@media (min-width: 700px) {
+  .lecture1 {
+    width: 79%;
+  }
+  .lecture2 {
+    width: 79%;
+  }
+  .titles {
+    width: 79%;
+  }
+  .important {
+    width: 79%;
+  }
+  .change {
+    width: 79%;
+  }
+  .column_date {
+    width: 15%;
+    margin-right: 2%;
+    padding-left: 2px;
+    display: inline-block;
+  }
+  .column_materials {
+    width: 38%;
+    margin-right: 2%;
+    display: inline-block;
+  }
+  .column_assign {
+    width: 38%;
+    margin-right: 2%;
+    display: inline-block;
+  }
+}
+/******************************************/
+footer {
+  clear: both;
+  margin: 0;
+  padding: 0;
+  background: #c7c7c7;
+  font-size: 0.8em;
+  overflow: hidden;
+}
+.footerlinks {
+  margin: 0;
+  padding: 0.8em 0 0.8em 0.8em;
+  float: left;
+  width: 56%;
+}
+.license {
+  margin: 0;
+  padding: 0;
+  float: right;
+  width: 38%;
+}

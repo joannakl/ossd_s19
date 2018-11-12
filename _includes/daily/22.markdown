@@ -1,0 +1,56 @@
+
+<div class="lecture2">
+<div class="column_date">
+
+Class # 22 <br>
+Thu, 4/12
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Linux basics, file system, scripting.
+
+
+[slides (finish from two weeks ago)](https://docs.google.com/presentation/d/16_IA7T0sWS7FwyHHuJmtCVy7Jnc7s18eTjkk4kylwoc/preview#slide=id.p14) by
+Jeffrey Korn from CSCI-GA.2246-001 (Open Source Tools)
+[slides](https://docs.google.com/presentation/d/1vxEwFMY1HZX8G9tLUoiM-ImTecbyGnyKdeddeyzLMxU/preview#slide=id.p7) _Processes and Filters_ by
+Jeffrey Korn from CSCI-GA.2246-001 (Open Source Tools)
+
+
+[slides](slides/week11/useful_commands.html)
+
+Other readings:
+
+- [10 commands every Linux user should know](https://opensource.com/article/18/4/10-commands-new-linux-users?utm_medium=Email&utm_campaign=weekly&sc_cid=701f2000000ZyfmAAC)
+- [How to find files in Linux](https://opensource.com/article/18/4/how-find-files-linux?utm_medium=Email&utm_campaign=weekly&sc_cid=701f2000000ZyfmAAC)
+
+- [How I got started with bash scripting](https://opensource.com/article/17/5/how-i-learned-bash-scripting)
+- [How to create a Bash completion script](https://opensource.com/article/18/3/creating-bash-completion-script)
+- [Bash prompt tips and tricks](https://opensource.com/article/17/7/bash-prompt-tips-and-tricks)
+
+- [A find Tutorial and Primer](https://danielmiessler.com/study/find/)
+- [Linux and Unix find command tutorial with examples](https://shapeshed.com/unix-find/)
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+Blog posts for this week:
+
+- report on the rescheduled open data week events, if you attended any
+
+- report on team project progress - concentrating on your own contributions to the team
+
+- You should also update your "contributions" table with any new contributions
+(do not include the team work in there).
+
+</p>
+</div>
+
+</div>

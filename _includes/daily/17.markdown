@@ -1,0 +1,29 @@
+
+<div class="lecture1">
+
+<div class="column_date">
+
+Class # 17 <br>
+Tue, 3/27
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Workshop day: narrowing down on issues to work on for each team.
+
+</p>
+</div>
+
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+
+</p>
+</div>
+
+</div>

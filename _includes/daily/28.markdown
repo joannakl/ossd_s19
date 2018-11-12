@@ -1,0 +1,25 @@
+
+<div class="lecture2">
+<div class="column_date">
+
+Class # 28 <br>
+Thu, 5/3
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Exam 2 (first date)
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+
+</p>
+</div>
+
+</div>

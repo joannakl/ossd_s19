@@ -1,0 +1,31 @@
+
+<div class="lecture1">
+
+<div class="column_date">
+
+Class # 21 <br>
+Tue, 4/10
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Team work on projects.
+
+Progress reports.
+
+</p>
+</div>
+
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+
+</p>
+</div>
+
+</div>
