@@ -1,30 +1,12 @@
-# Course website for CS480, Section 10 (Spring 2018)
+# Course website for CS480, Section 10 (Spring 2019)
 
-Currently under class exercise experiment. 
-Bugs to be fixed by students. 
 
-This site is built with [Jekyll](https://jekyllrb.com/) and is hosted on [GitHub Pages](https://pages.github.com/).
+This repository contains code and content for a website for one of the courses
+that I teach.
 
-## Setup
-### [MacOS and Linux](https://jekyllrb.com/docs/installation/)
-### [Windows](https://jekyllrb.com/docs/windows/)
 
-## Building and Running
-```
-git clone https://github.com/joannakl/cs480_s18.git
-cd cs480_s18
-jekyll build --watch
-open _site/index.html
-```
-
-Alternatively, if you want to build with a local webserver:
-```
-# in `_config.yml`, change the baseurl config to – `baseurl: ""`
-jekyll serve
-# navigate to http://127.0.0.1:4000/
-```
-
-Note: If you make any changes to  `_config.yml`, you have to restart the server or run `jekyll build --watch` for the changes to take place.
-
-## Contributing
-Please see [this document](/CONTRIBUTING.md) for instructions on how to contribute
+## Contributions
+- If you find a problem, feel free to report an issue.
+- If you want to fix a problem, create a pull request.
+- If there are other resources that you think this page should link to,
+make a pull request (but no promises that I will merge it).
