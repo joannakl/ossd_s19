@@ -1,0 +1,14 @@
+#### Restricting access to users based on netids ####
+
+# Authentication via the NYU Kerberos system 
+# is no longer supported.
+# Use the following instead
+
+Order deny,allow
+AuthType Basic
+AuthName "Authorized NYU users only!"
+AuthBasicAuthoritative On
+AuthBasicProvider ldap-nyu
+require valid-user
+satisfy all
+
