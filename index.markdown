@@ -63,7 +63,7 @@ This course prepares students to become active participants in open source proje
 
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
-
+<!--
 # Important Dates
 ---
 
@@ -75,6 +75,6 @@ This course prepares students to become active participants in open source proje
 [here]( {{site.final_exams_link}} ) ) <br>
 {{ site.final_exam_date }}
 
-
+-->
 <br>
 <br>
