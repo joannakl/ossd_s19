@@ -75,14 +75,12 @@ book_opt_3_note: "(it hasn't been updated since 2010, but there is some good stu
 book_opt_3_image: ""
 
 
-
-
 book_opt_4: "The Linux Command Line, "
 book_opt_4_author: "William Shotts, "
 book_opt_4_edition: ""
 book_opt_4_link: "http://linuxcommand.org/tlcl.php"
 book_opt_4_note: ""
-book_opt_4_image: "http://linuxcommand.org/images/linuxcommandline.png"
+book_opt_4_image: "http://linuxcommand.org/images/51vgLTkNsIL._SL500_AA300_.jpg"
 
 
 book_opt_5: "ProGit, "
@@ -91,3 +89,11 @@ book_opt_5_edition: "2nd edition"
 book_opt_5_link: "https://git-scm.com/book/en/v2"
 book_opt_5_note: ""
 book_opt_5_image: "https://git-scm.com/images/progit2.png"
+
+
+book_opt_6: "The Cathedral and the Bazaar, "
+book_opt_6_author: "Eric Steven Raymond, "
+book_opt_6_edition: ""
+book_opt_6_link: "http://www.catb.org/~esr/writings/cathedral-bazaar/"
+book_opt_6_note: "printed version available from [O'Railly](http://shop.oreilly.com/product/9781565927247.do)"
+book_opt_6_image: "http://www.catb.org/~esr/graphics/cb.s.png"
