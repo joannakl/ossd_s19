@@ -98,10 +98,12 @@ For detailed schedule, see the [Daily](daily.html) tab of this page.
 
 Your grade will be based on:
 
-* exams and quizzes (50%): pop-quizzes (5%), one midterm exam (20%) and the final (25%),  
-* contributions and homeworks (40%): these include contributions to existing open source projects (details to be discussed at the
+* in-class assessments (40%): six in-class mini-exams (~30 minutes) based on assigned readings, completed homework assignments, group work, presentations
+given in class, etc (the lowest grade out of the six will be dropped to account for any excused or un-excused absences)  
+* contributions (40%): these include contributions to existing open source projects both individual and in groups (details to be discussed at the
 beginning of the semester)  
-* participation (10%): weekly posts about contributions and activities, in class discussions and presentations
+* homework (10%): weekly posts (answering homework prompts, reflecting on readings, contributions and activities), and other forms of homework assignments
+* participation (10%): in-class discussions, in-class team work and report-outs 
 
 
 Grades will be determined using the following scale:
@@ -118,13 +120,6 @@ Grades will be determined using the following scale:
 
 
 The grade of *Incomplete* is reserved for students who, for legitimate and documented reason, miss the final exam. The grade of *Incomplete* **will not be given** to student who started falling behind in class. Those students should withdraw from the class or switch to *Pass/Fail* option.
-
-
-# EXAMS
----
-There will be a midterm and a final exam. All exams are cumulative.
-
-__Missing an exam:__ There will be no make-up exams. Failure to take an exam counts as a zero grade on that exam. The only exception to this rule is for students who have a legitimate medical or personal emergency (documented). These students need to talk to the instructor as soon as possible (trying to excuse an exam absence a week after it happened will not work).
 
 
 # Academic Integrity Policy
