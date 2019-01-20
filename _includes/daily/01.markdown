@@ -15,7 +15,9 @@ Tue, 1/23
 <p markdown="block">
 
 Intro to the class.
+
 <!--
+
 [Course logistics](slides/week1/course_logistics.html)  
 
 Material:
