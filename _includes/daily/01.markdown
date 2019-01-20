@@ -15,7 +15,7 @@ Tue, 1/23
 <p markdown="block">
 
 Intro to the class.
-
+<!--
 [Course logistics](slides/week1/course_logistics.html)  
 
 Material:
@@ -30,21 +30,21 @@ Material:
         roles, and terminology of open source software.
 
     - [How to jump start your career in open source](https://youtu.be/9X6HYoTl3K0) by  Eric D. Schabell, Red Hat, All Things Open 2018.
-    
+
 - Readings:
     - [{{ site.book_opt_1 }}]( {{ site.book_opt_1_link }}), chapter 1
     - [{{ site.book_opt_1 }}]( {{ site.book_opt_1_link }}), chapter 3, IRC section (p. 66)
 
 - For Windows users:
     - [Windows Subsystem for Linux Documentation](https://docs.microsoft.com/en-us/windows/wsl/about)
-
+-->
 </p>
 </div>
 
 <div class="column_assign">
 <p markdown="block">
-
-- complete this [questionnaire](https://goo.gl/forms/w53sDFkfXEzlrzNi2) - if you do not have a GitHub account, create one first
+- complete this [consent form](https://goo.gl/forms/ejDasYmeDYw0TTmu2)
+- complete this [questionnaire](https://goo.gl/forms/1nq6dU96V4Ouyuqf1) - if you do not have a GitHub account, create one first
 
 
 

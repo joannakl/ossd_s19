@@ -4,7 +4,7 @@
 <div class="column_date">
 <p markdown="block">
 
-Class # 2 <br> 
+Class # 2 <br>
 Thu, 1/25
 
 
@@ -14,46 +14,46 @@ Thu, 1/25
 <div class="column_materials">
 <p markdown="block">
 
-
+<!--
 
 [History of Open Source](slides/week1/history.html)  
 
-- [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html) by Eric S Raymond <br>[PDF](http://www.unterstein.net/su/docs/CathBaz.pdf) 
+- [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html) by Eric S Raymond <br>[PDF](http://www.unterstein.net/su/docs/CathBaz.pdf)
 
-- [Why Open Source Misses the Point of Free Software](http://www.gnu.org/philosophy/open-source-misses-the-point.html) by Richard Stallman 
+- [Why Open Source Misses the Point of Free Software](http://www.gnu.org/philosophy/open-source-misses-the-point.html) by Richard Stallman
 
-- [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+- [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-
+-->
 </p>
 </div>
 
 <div class="column_assign">
 <p markdown="block">
-
+<!--
 - read the materials posted for class 1 and 2 (note that some of them may be linked to
-from the slides). 
+from the slides).
 
 - setup your course blog (due Jan. 28, midnight):
     - locate your repository in the class organization, it should be called __YOUR_NETID-weekly__  
     - goto Settings and scroll down to GitHub Pages section
     - switch the __None__ option to __master branch__
-    - edit the about.md file to include some information about yourself 
+    - edit the about.md file to include some information about yourself
     (make sure that you are using mardown to format this page)
 - make your first post (due Jan. 28, midnight)
     - in the `_posts` directory, edit `2018-01-28-week01.md` file to update your first
-    week blog post 
-    - answer the following points in your post (each item should be in its own section) 
+    week blog post
+    - answer the following points in your post (each item should be in its own section)
         - __open source__ (what do YOU think about when you hear the term "open source"?
-        what are some advantages of open vs. closed source, what are some potential 
+        what are some advantages of open vs. closed source, what are some potential
         problems with open source?)
-        - __projects__: list names of four open source projects that you regularly use or that influenced you in some way in the past; give brief descriptions for each, explain why you use it and what the alternatives might be (note, the projects do not have to be source code based) 
-        - __questions for Tom__: come up with two (or more) questions that you 
+        - __projects__: list names of four open source projects that you regularly use or that influenced you in some way in the past; give brief descriptions for each, explain why you use it and what the alternatives might be (note, the projects do not have to be source code based)
+        - __questions for Tom__: come up with two (or more) questions that you
         would like to ask
-        Tom Callaway from RedHat when he visits the class next week 
-         
-        
- 
+        Tom Callaway from RedHat when he visits the class next week
+
+-->         
+
 </p>
 </div>
 
