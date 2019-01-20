@@ -4,7 +4,7 @@
 <p markdown="block">
 
 Class # 1 <br>
-Tue, 1/29
+Mon, 1/28
 
 
 
@@ -46,7 +46,7 @@ Material:
 <div class="column_assign">
 <p markdown="block">
 - complete this [consent form](https://goo.gl/forms/ejDasYmeDYw0TTmu2)
-- complete this [questionnaire](https://goo.gl/forms/1nq6dU96V4Ouyuqf1) - if you do not have a GitHub account, create one first
+- complete this [questionnaire](https://goo.gl/forms/u17qPki9hm2nulr42) - if you do not have a GitHub account, create one first
 
 
 
