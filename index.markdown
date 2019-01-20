@@ -48,7 +48,7 @@ This course prepares students to become active participants in open source proje
 # Why Open Source Matters and Why Should You Care?
 ---
 
-<iframe width="560" height="315"  style="float:right" src="https://www.youtube.com/embed/7c0IrsDsNaw" frameborder="0" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315"  style="float:right" src="https://www.youtube.com/embed/7c0IrsDsNaw" frameborder="10" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 - [Webopedia](http://www.webopedia.com/TERM/S/software.html) : software definition, software vs. hardware
