@@ -4,7 +4,7 @@
 <p markdown="block">
 
 Class # 1 <br>
-Tue, 1/23
+Tue, 1/29
 
 
 
