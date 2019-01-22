@@ -79,7 +79,12 @@ part above)
         - __projects__: list names of four open source projects that you regularly use or that influenced you in some way in the past; give brief descriptions for each, explain why you use it and what the alternatives might be (note, the projects do not have to be source code based)
     (Keep in mind that these blogs are publicly available to anybody who stumbles upon them. Make sure that the posts are appropriate.)
 
+    HINT: look at your blog page after you are done editing to make sure it has the correct content and that the text is formatted the way you intended it to be.
+    Your blog page is at `https://nyu-ossd-s19.github.io/YOUR_USER_NAME-weekly/`
+    (after you replace `YOUR_USER_NAME` with your actual username, of course). 
+
 - add your name to the course Wiki
+
     The course [organization on GitHub](https://github.com/nyu-ossd-s19/) contains a private repository called [__wiki__](https://github.com/nyu-ossd-s19/wiki).
     We will use this for content that needs to be jointly edited by everybody in the class. All of you should have write access to the existing pages and permission
     to create new pages.
