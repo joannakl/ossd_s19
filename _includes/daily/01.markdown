@@ -33,7 +33,7 @@ Materials:
 
   - [What is Open Source, and Why Should You Care?](https://www.youtube.com/watch?v=n2GhS-u-5FA)
 
-    This a YouTube video in which Kevin Fleming gives a brief history of open source software,
+    This a YouTube video in which Kevin P Fleming gives a brief history of open source software,
     and talks about open source beyond software, and various ways that students can get
     involved in open source projects to develop useful and marketable  skills.
 
@@ -47,6 +47,11 @@ Materials:
   - [Git for Windows](https://gitforwindows.org/)
   - [GitHub Desktop](https://desktop.github.com/)
 
+
+- [MarkdownTutorial](https://www.markdowntutorial.com/) 
+- [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
 </p>
 </div>
 
@@ -57,18 +62,20 @@ Due immediately:
 - complete this [questionnaire](https://goo.gl/forms/u17qPki9hm2nulr42) - if you do not have a GitHub account, create one first
 
 Due by next class:
-- watch the talk by Kevin Fleming
+- watch the talk by Kevin P Fleming
+- install a recent version of Firefox on your computer (if not there already)
 
 Due by the end of the week:
 - read the chapters for the [{{ site.book_opt_1 }}]( {{ site.book_opt_1_link }})
 - setup your blog site (this can only be done AFTER you complete the _immediate_
 part above)
-    - locate your repository in the class organization, it should be called __YOUR_USERNAME-weekly__  
-    - goto Settings and scroll down to GitHub Pages section
-    - switch the __None__ option to __master branch__
+    - locate your repository in the class organization, it should be called __YOUR_USERNAME-weekly__
     - edit the `_config.yml` file and make changes indicated by the `CUSTOMIZE` comment
     - edit the `about.md` file to include some information about yourself
     (make sure that you are using markdown to format this page)
+
+    Note: files are in the `gh-pages` branch, not a `master` branch of your repository.
+
 - make your first post
     - in the `_posts` directory, edit `2018-02-03-week01.md` file to update your first
     weekly blog post
@@ -81,7 +88,7 @@ part above)
 
     HINT: look at your blog page after you are done editing to make sure it has the correct content and that the text is formatted the way you intended it to be.
     Your blog page is at `https://nyu-ossd-s19.github.io/YOUR_USER_NAME-weekly/`
-    (after you replace `YOUR_USER_NAME` with your actual username, of course). 
+    (after you replace `YOUR_USER_NAME` with your actual username, of course).
 
 - add your name to the course Wiki
 

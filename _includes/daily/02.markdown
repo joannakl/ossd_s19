@@ -14,45 +14,44 @@ Wed, 1/30
 <div class="column_materials">
 <p markdown="block">
 
+Create your first open source project (at least, in this class).
+
 <!--
 
-[History of Open Source](slides/week1/history.html)  
+Find your team members and make sure you are sitting together so that
+you can work together.
 
-- [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html) by Eric S Raymond <br>[PDF](http://www.unterstein.net/su/docs/CathBaz.pdf)
+The instructions for the activity are at [Browser Add-on Activity](https://github.com/joannakl/ossd_materials/blob/master/activities/browser_add-on_activity.md) repository.
 
-- [Why Open Source Misses the Point of Free Software](http://www.gnu.org/philosophy/open-source-misses-the-point.html) by Richard Stallman
 
-- [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Readings:
+- MDN [Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions) documentation
+
 
 -->
+
+
 </p>
 </div>
 
 <div class="column_assign">
 <p markdown="block">
+
 <!--
-- read the materials posted for class 1 and 2 (note that some of them may be linked to
-from the slides).
 
-- setup your course blog (due Jan. 28, midnight):
-    - locate your repository in the class organization, it should be called __YOUR_NETID-weekly__  
-    - goto Settings and scroll down to GitHub Pages section
-    - switch the __None__ option to __master branch__
-    - edit the about.md file to include some information about yourself
-    (make sure that you are using mardown to format this page)
-- make your first post (due Jan. 28, midnight)
-    - in the `_posts` directory, edit `2018-01-28-week01.md` file to update your first
-    week blog post
-    - answer the following points in your post (each item should be in its own section)
-        - __open source__ (what do YOU think about when you hear the term "open source"?
-        what are some advantages of open vs. closed source, what are some potential
-        problems with open source?)
-        - __projects__: list names of four open source projects that you regularly use or that influenced you in some way in the past; give brief descriptions for each, explain why you use it and what the alternatives might be (note, the projects do not have to be source code based)
-        - __questions for Tom__: come up with two (or more) questions that you
-        would like to ask
-        Tom Callaway from RedHat when he visits the class next week
+Due by the end of the week:
 
--->         
+- if you did not complete the in-class activity, work with your team members to finish
+it (up to and including Part 5)
+
+Due by the end of the following week:
+
+- read the _Getting Started_ section of the MDN [Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
+
+- with your team members work on the code of your proposed browser extension
+(make sure that this is a team work with all team members making contributions)
+
+-->
 
 </p>
 </div>
