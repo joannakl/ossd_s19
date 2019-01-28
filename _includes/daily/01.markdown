@@ -16,7 +16,7 @@ Mon, 1/28
 
 Intro to the class.
 
-[Course logistics](slides/week1/course_logistics.html)  
+[Course logistics](slides/course_logistics.html)  
 
 
 Materials:
@@ -48,7 +48,7 @@ Materials:
   - [GitHub Desktop](https://desktop.github.com/)
 
 
-- [MarkdownTutorial](https://www.markdowntutorial.com/) 
+- [MarkdownTutorial](https://www.markdowntutorial.com/)
 - [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
