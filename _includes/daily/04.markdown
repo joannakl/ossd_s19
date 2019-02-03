@@ -2,23 +2,13 @@
 <div class="lecture2">
 <div class="column_date">
 
-Class # 4 <br> 
-Thu, 2/1
+Class # 4 <br>
+Wed, 2/6
 
 </div>
 
 <div class="column_materials">
 <p markdown="block">
-
-[Open Encyclopedia](slides/week2/open_encyclopedia.html)  
-
-- discussion about Tom's presentation
-- reflections about _The Cathedral and The Bazaar_
-- thinking about projects to which we might contribute
-- Wikipedia as an example of collaboratively developed project
-    - how to figure out how to contribute
-    - how to contribute
-    - where to find ideas for contributions
 
 
 </p>
@@ -28,20 +18,7 @@ Thu, 2/1
 <p markdown="block">
 
 
-- if you have not done so already, go to Piazza and vote for the date of the midterm exam 
-
-- start looking for Wikipedia articles to which you can contribute (these could be small edits that fix broken links or typos, or something much more significant if you feel ready for it); next week you will need to include links to your edits in the blog posts 
-
-- make your next post (due Feb. 4, midnight), try to discuss the following ideas:
-    - explain (in your own words) the difference between software development following
-    the cathedral model and software development following the bazaar model; which
-    of the two environments would you be more comfortable
-    - _The Cathedral and The Bazaar_ essay has 19 “lessons”. Pick two of these that you find to be the most intriguing, interesting, telling, or ones that you simply liked. Quote them in your blog and try to explain what they’re supposed to mean.  
-    
-
-
-
 </p>
 </div>
-    
+
 </div>

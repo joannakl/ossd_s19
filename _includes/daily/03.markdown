@@ -3,16 +3,41 @@
 
 <div class="column_date">
 
-Class # 3 <br> 
-Tue, 1/30 
+Class # 3 <br>
+Mon, 2/4
 
 </div>
 
 <div class="column_materials">
 <p markdown="block">
 
-Invited speaker: __Tom Callaway__ from RedHat 
+Version control systems
 
+
+[slides](slides/version_control_systems.html)  
+
+[slides](slides/git_workflow_activity.pptx)
+
+[slides](slides/week4/git_activity.html)  
+
+For resolving some potential future issues with Git and GitHub, you might
+want to keep [git-flight-rules](https://github.com/k88hudson/git-flight-rules) on hand. <br>
+This project is open for contributions as well.
+
+
+- if you are not comfortable with using git from the terminal, go through the [tryGit](https://try.github.io/levels/1/challenges/1) tutorial
+
+http://git-school.github.io/visualizing-git/
+
+
+Readings:
+
+- [_Producing Open Source Software_](http://producingoss.com/) by Karl Fogel,
+    - chapter 3, section on Version Control (pages 52-61)
+
+- [_ProGit_](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub,
+    - Getting started (pages 5-18)
+    - Git Basics (pages 19 - 56)
 
 </p>
 </div>
@@ -21,10 +46,18 @@ Invited speaker: __Tom Callaway__ from RedHat
 <div class="column_assign">
 <p markdown="block">
 
+Due by the end of the week (2/10):
+
+- add a question for Kevin P. Fleming, [Linkedin](https://www.linkedin.com/in/kpfleming/), to the course wiki
+      - add your own question, and enter a number 1 next two it
+      - read through existing questions, and upvote the questions you like (replace the number next to them with a number __one__ higher
+      - go back to the page towards the end of the week to cast your vote on additional questions if you like them
+
+
 
 
 
 </p>
 </div>
-    
+
 </div>

@@ -3,16 +3,14 @@
 
 <div class="column_date">
 
-Class # 6 <br> 
-Thu, 2/8 
+Class # 6 <br>
+Thu, 2/13
 
 </div>
 
 <div class="column_materials">
 <p markdown="block">
-
-[Project evaluation](https://github.com/nyu-ossd-s18/project_evaluation) - hands on activity. Work in groups of 3-4 students. 
-
+Invited speaker: Kevin P. Fleming from Bloomberg,  [Linkedin](https://www.linkedin.com/in/kpfleming/)
 
 
 
@@ -29,5 +27,5 @@ Thu, 2/8
 
 </p>
 </div>
-    
+
 </div>
