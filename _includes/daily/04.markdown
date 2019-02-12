@@ -10,7 +10,7 @@ Wed, 2/6
 <div class="column_materials">
 <p markdown="block">
 
-Finish up with slides on GitHub workflo.
+Finish up with slides on GitHub workflow.
 
 Work in groups of 2-3 students on
 [GitHub Workflow](https://github.com/joannakl/ossd_materials/tree/master/activities/github-workflow-activity) Activity
@@ -30,7 +30,7 @@ contributions on your own blog   (make the link to the issue you
 reported)
 
 Due for Monday class (2/11):
-- each team should be ready to give ~5minutes presentation/demo about their own extension 
+- each team should be ready to give ~5minutes presentation/demo about their own extension
 
 
 </p>

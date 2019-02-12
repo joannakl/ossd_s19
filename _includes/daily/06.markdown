@@ -10,7 +10,11 @@ Thu, 2/13
 
 <div class="column_materials">
 <p markdown="block">
-Invited speaker: Kevin P. Fleming from Bloomberg,  [Linkedin](https://www.linkedin.com/in/kpfleming/)
+
+~~Invited speaker: Kevin P. Fleming from Bloomberg,  [Linkedin](https://www.linkedin.com/in/kpfleming/)~~
+(postponed till later in the semester)
+
+
 
 
 

@@ -11,12 +11,35 @@ Mon, 2/11
 <div class="column_materials">
 <p markdown="block">
 
+Demo session for student browser extension projects:
+
+- [FacebookPanic](https://github.com/nyu-ossd-s19/FacebookPanic)
+- [tabi clock](https://github.com/nyu-ossd-s19/tabi-clock)
+- [nopepad](https://github.com/nyu-ossd-s19/nopepad)
+- [screen cracker](https://github.com/nyu-ossd-s19/screen-cracker-team-7)
+- [memeify](https://github.com/nyu-ossd-s19/memeify-team-1)
+- [mood](https://github.com/nyu-ossd-s19/mood)
+- [seasonal theme](https://github.com/nyu-ossd-s19/Seasonal-Theme2k19)
+- [candela](https://github.com/nyu-ossd-s19/candela-team-10)
+- [email detector](https://github.com/nyu-ossd-s19/email-detector-team-12)
+- [tickStop](https://github.com/nyu-ossd-s19/tickStop)
+- [Joannify](https://github.com/nyu-ossd-s19/Joannify)
+- [notepad](https://github.com/nyu-ossd-s19/notepad-team-3)
+
+
+
 </p>
 </div>
 
 
 <div class="column_assign">
 <p markdown="block">
+
+Due by the end of this week (2/17):
+- try to get involved in other groups projects:
+  - report issue, file feature requests, comment on design
+  - claim reported issues and try to resolve them, make pull requests to the original product
+- blog about your own experience with creating the browser extension, comment on collaborative aspect of it, how easy was it to work with your team members, were you collaborating remotely, did you meet to work on the code together, how were the decisions made about the design of the project, how were you communicating
 
 
 
