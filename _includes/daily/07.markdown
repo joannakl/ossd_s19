@@ -6,6 +6,8 @@
 Class # 7 <br>
 Wed, 2/20
 
+</div>
+
 <div class="column_materials">
 <p markdown="block">
 

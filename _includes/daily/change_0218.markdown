@@ -1,7 +1,9 @@
 
 <div class="change">
+
 <div class="column_date">
 <p markdown="block">
+
 
 Mon, 2/18
 </p>
