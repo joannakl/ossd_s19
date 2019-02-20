@@ -16,6 +16,8 @@ Mini-exam #1
 Project evaluation - how to decide if an open source project is a good place
 for your first contribution.
 
+[Activity instructions](https://github.com/nyu-ossd-s19/project_evaluation)
+
 
 
 
