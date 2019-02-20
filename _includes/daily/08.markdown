@@ -3,12 +3,17 @@
 <div class="column_date">
 
 Class # 8 <br>
-Wed, 2/20
+Mon, 2/25
 
 </div>
 
 <div class="column_materials">
 <p markdown="block">
+
+
+Invited speaker: Christos Bacharakis from Mozilla Foundation, [Linkedin](https://www.linkedin.com/in/christosbaharakis/?originalSubdomain=gr)
+
+
 
 </p>
 </div>
