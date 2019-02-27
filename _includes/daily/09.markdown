@@ -40,10 +40,16 @@ question and answer process to the right license, and then displays the license 
 <div class="column_assign">
 <p markdown="block">
 
+Due by the end of this week (3/3):
 
+- Look at the license for the project that you evaluated last week. In your blog, describe  (in human readable terms, not legalese), what the terms of that license are (what can one do, what is not allowed, what must one do, etc.).
 
+- You should work with the project that you evaluated last week (unless, you decided that there is absolutely no chance that you might be interested in working on that project, in which case you should chose one of the projects evaluated by your fellow students - and read their evaluation first!). Locate the instructions for installing development environment. Install the the development environment and verify that it actually works. <br>
+In your blog, report on the experience of installing the dev. environment (did it work, are the instructions detailed enough, can you think about improvements to the instructions, if it failed, what went wrong? did you figure out how to fix it? )
 
-</p>
+- (Optional, but strongly recommended) Look for documentation related or newbie kinds of issues in the project that you evaluated. Attempt to fix it and submit a pull request.
+
+s</p>
 </div>
 
 </div>
