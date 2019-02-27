@@ -13,7 +13,7 @@ Wed, 2/27
 
 No in-class meeting.
 
-To talk to watch in place of the lecture:
+Two talks to watch in place of the lecture:
 - [A Crash Course in Open Source Licensing](https://www.youtube.com/watch?v=cJIi-hIlCQM&feature=youtu.be)
 is a YouTube video of a presentation by Kevin Fleming about open source
 licenses.
@@ -30,7 +30,7 @@ its various licenses.
 is an excellent, comprehensive summary and guide to the various free
 software and non-software licenses (e.g., for documentation and other
 intellectual property).
--[choosealicense.com](https://choosealicense.com/) is a website that guides you through a
+- [choosealicense.com](https://choosealicense.com/) is a website that guides you through a
 question and answer process to the right license, and then displays the license text.
 
 </p>
