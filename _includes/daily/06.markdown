@@ -28,6 +28,7 @@ Readings:
 
 
 __The list that we produced:__
+
 -
 -
 - 

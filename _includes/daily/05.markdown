@@ -11,7 +11,6 @@ Mon, 2/11
 <div class="column_materials">
 <p markdown="block">
 
-Demo session for student browser extension projects:
 
 - [FacebookPanic](https://github.com/nyu-ossd-s19/FacebookPanic)
 - [tabi clock](https://github.com/nyu-ossd-s19/tabi-clock)
@@ -26,6 +25,7 @@ Demo session for student browser extension projects:
 - [Joannify](https://github.com/nyu-ossd-s19/Joannify)
 - [notepad](https://github.com/nyu-ossd-s19/notepad-team-3)
 
+Demo session for student browser extension projects:
 
 
 </p>
