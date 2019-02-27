@@ -28,10 +28,17 @@ Readings:
 
 
 __The list that we produced:__
-
--
--
-- 
+- active community of users, contributors and core developers
+- friendly community with enforced code of conduct
+- friendly to beginners
+- relevant to the potential contributor's interests
+- familiar to the potential contributor
+- using technologies (including programming languages) that the potential contributor is familiar with
+- good documentation
+- a lot of closed issues
+- recent changes to the codebase
+- list of goals/direction for the future of the project
+- lack of controversy / drama surrounding the project or it's developers
 
 
 </p>
