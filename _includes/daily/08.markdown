@@ -15,15 +15,15 @@ Invited speaker: Christos Bacharakis from Mozilla Foundation, [Linkedin](https:/
 
 
 
-Due by the end of this week (3/3):
-
-- In your blog, reflect on the _short_ presentation given by the invited speaker last week. What new things did you learn (if anything)? What do you think about the Mozilla mission?
-
 </p>
 </div>
 
 <div class="column_assign">
 <p markdown="block">
+
+Due by the end of this week (3/3):
+
+- In your blog, reflect on the _short_ presentation given by the invited speaker last week. What new things did you learn (if anything)? What do you think about the Mozilla mission?
 
 
 </p>
