@@ -49,7 +49,7 @@ In your blog, report on the experience of installing the dev. environment (did i
 
 - (Optional, but strongly recommended) Look for documentation related or newbie kinds of issues in the project that you evaluated. Attempt to fix it and submit a pull request.
 
-s</p>
+</p>
 </div>
 
 </div>
