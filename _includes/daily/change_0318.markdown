@@ -15,7 +15,7 @@
 Spring Break <br>
 No classes scheduled.
 
-<img src="../../resources/img/spring.png" alt="spring">
+<img src="resources/img/spring.png" alt="spring">
 <br><small>Free image Spring flowers on white background (Free photobank torange.biz) / ©torange.biz
 Creative Commons Attribution 4.0 International License.</small>
 
