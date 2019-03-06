@@ -123,6 +123,21 @@ padding:1% 1% 1% 5%;
 
 
 
+/* Two-column layout */
+.left-column2-large {
+width: 64%;
+float: left;
+padding:1% 5% 1% 1%;
+}
+
+.right-column2-small {
+width: 24%;
+float: right;
+padding:1% 1% 1% 5%;
+}
+
+
+
 
 @media print {
   .remark-slide-scaler {
