@@ -10,7 +10,10 @@ Mon, 3/4
 <div class="column_materials">
 <p markdown="block">
 
+__Snow day. University closed.__
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Snowflake7.png" alt="snow flake">
+.tiny[Plate XIX of "Studies among the Snow Crystals ... " by Wilson Bentley, "The Snowflake Man." Work in public domain.]
 
 
 
