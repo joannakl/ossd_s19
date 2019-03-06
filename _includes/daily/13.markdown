@@ -4,7 +4,7 @@
 <div class="column_date">
 
 Class # 13 <br>
-Tue, 3/6
+Wed, 3/13
 
 </div>
 
@@ -51,7 +51,7 @@ Setup team repositories:
 - create another team repository that will be used for coordinating work on
 the project (use the project board to set up your milestones)
 
--->s
+-->
 
 
 </p>
