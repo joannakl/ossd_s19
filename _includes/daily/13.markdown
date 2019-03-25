@@ -19,10 +19,15 @@ Project group presentations:
 - what is your plan for getting started
 
 List of projects:
-
-- ???
-- ???
-- ...
+- Gatsby.js
+- [Scikit-Learn](https://github.com/nyu-ossd-s19/sklearn-logistics)
+- [Home Assistant](https://github.com/nyu-ossd-s19/home-assistant)
+- Blockly
+- FreeCodeCamp
+- React
+- [React (Native)](https://github.com/nyu-ossd-s19/react-native)
+- [Caprine](https://github.com/nyu-ossd-s19/caprine)
+- Vue.js
 
 </p>
 </div>
