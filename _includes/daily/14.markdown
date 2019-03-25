@@ -1,5 +1,5 @@
 
-<div class="important">
+<div class="lecture2">
 <div class="column_date">
 
 Class # 14 <br>
