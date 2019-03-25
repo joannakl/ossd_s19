@@ -4,14 +4,14 @@
 <div class="column_date">
 
 Class # 17 <br>
-Tue, 3/27
+Wed, 4/3
 
 </div>
 
 <div class="column_materials">
 <p markdown="block">
 
-Workshop day: narrowing down on issues to work on for each team.
+Workshop day.
 
 </p>
 </div>

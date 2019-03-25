@@ -13,6 +13,7 @@ Mon, 3/11
 
 Invited speaker: Patrick Masson, General Manager & Director of Open Source Software Initiative ([OSI](https://opensource.org/)), [Linkedin](https://www.linkedin.com/in/patrick-masson-4a09b53/)
 
+[Patrick's presentation](slides/HunterNYUPres.pdf)
 
 
 </p>

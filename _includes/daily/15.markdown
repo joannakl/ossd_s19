@@ -3,17 +3,18 @@
 
 <div class="column_date">
 
-Class # 15 <br> 
-Tue, 3/20
+Class # 15 <br>
+Wed, 3/27
 
 </div>
 
 <div class="column_materials">
 <p markdown="block">
 
-Exams returned. 
+Workshop day: you should be selecting issues and
+planning how the group is going to work together.
 
-Setting milestones for projects. 
+Last 10 minutes: quick report-out from each group.  
 
 
 </p>
@@ -28,5 +29,5 @@ Setting milestones for projects.
 
 </p>
 </div>
-    
+
 </div>

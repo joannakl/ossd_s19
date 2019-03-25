@@ -2,15 +2,23 @@
 <div class="important">
 <div class="column_date">
 
-Class # 14 <br> 
-Thu, 3/8
+Class # 14 <br>
+Mon, 3/25
 
 </div>
 
 <div class="column_materials">
 <p markdown="block">
 
-Midterm exam
+Review of some licensing concepts:
+- copyright
+- license
+- public domain
+- fair use
+
+Discussion about [OSI](https://opensource.org/) and Patrick's presentation.
+
+
 
 </p>
 </div>
@@ -21,5 +29,5 @@ Midterm exam
 
 </p>
 </div>
-    
+
 </div>
