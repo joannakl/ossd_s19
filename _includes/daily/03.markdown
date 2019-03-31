@@ -11,9 +11,9 @@ Mon, 2/4
 <div class="column_materials">
 <p markdown="block">
 
-Followup discussion to browser activity:
+Follow up discussion to browser activity:
   - what should be located in a repository of an open source project?
-  - how did you determined if your _favorite_ extension was open source or not? 
+  - how did you determine if your _favorite_ extension was open source or not? 
   - examples of extensions that are open source
   - examples of extensions that are not open source
 
@@ -26,7 +26,7 @@ Slides:
 
 
 Resources:
-- hands on practice with self tests to make sure you are doing the right things: `gitruler` is a tool for self grading of some basic git activities <br>
+- hands on practice with self-tests to make sure you are doing the right things: `gitruler` is a tool for self-grading of some basic git activities <br>
 if you are new to `git` follow the [Learn git through Problem Based Learning](https://github.com/UOL-CS/gitruler-exercises) exercises  
 
 - for resolving some potential future issues with `git` and GitHub, you might
@@ -37,7 +37,7 @@ this project is open for contributions as well
 explore different scenarios that may arise and learn how to resolve them.
 (Note: I have not tried  these yet, but they come highly recommended.)
 
-- some tutorials, cheet sheets and visualizations of how git works: [try.github.io](https://try.github.io/)
+- some tutorials, cheat sheets and visualizations of how git works: [try.github.io](https://try.github.io/)
 
 
 
@@ -66,7 +66,7 @@ Due by the end of the week (2/10):
 
 - add a question for Kevin P. Fleming, [Linkedin](https://www.linkedin.com/in/kpfleming/), to the course wiki
 
-  - add your own question, and enter a number 1 next two it
+  - add your own question, and enter a number 1 next to it
   - read through existing questions, and upvote the questions you like (replace the number next to them with a number __one__ higher
   - go back to the page towards the end of the week to cast your vote on additional questions if you like them
 
