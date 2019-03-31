@@ -10,7 +10,7 @@ Thu, 5/3
 <div class="column_materials">
 <p markdown="block">
 
-Exam 2 (first date)
+
 
 </p>
 </div>
