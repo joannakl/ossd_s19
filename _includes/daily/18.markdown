@@ -12,7 +12,6 @@ Mon, 4/8
 
 - the Cathedral and the Bazaar discussion, [slides](slides/cathedral_bazaar_lessons.html)
 
-- the open source software business models, [slides](slides/business_models.html)
 
 
 
@@ -25,6 +24,28 @@ Mon, 4/8
 
 <div class="column_assign">
 <p markdown="block">
+
+
+
+Due by the end of this week (4/14):
+- blog about at least two of the three lessons from _The Cathedral and the Bazaar_ essay listed below (what do you think they mean and what do you think about them):
+  - "Perfection (in design) is achieved not when there is nothing more to add, but rather when there is nothing more to take away."
+  - "Often, the most striking and innovative solutions come from realizing that your concept of the problem was wrong."
+  - "When your language is nowhere near Turing-complete, syntactic sugar can be your friend."
+- blog: talk about one of the lessons from _The Cathedral and the Bazaar_ essay that you liked the most and that resonated with you the most (why is it important to you)
+- blog about  your personal progress towards the team project: what have you done,
+what did you learn, what are the tasks that you will be working on next week
+- update the contributions page on your blog (do not include your team contributions there, but make sure that all of your own contributions are there)
+
+Due by the end of this week (4/14) as a team:
+- create a wiki page on the course wiki for your team
+- list the name and github usernames of the team members
+- create a list of contributions that you made so far (these include
+any community interactions, issue reports, comments on issues, pull request)
+    - briefly describe what this contribution was
+    - specify who in your team participated in the work that went into
+      that contribution
+
 
 <!--
 __Blog posts__:

@@ -12,6 +12,11 @@ Thu, 4/12
 
 Mini-exam 4
 
+
+- the open source software business models, [slides](slides/business_models.html)
+
+
+
 </p>
 </div>
 
