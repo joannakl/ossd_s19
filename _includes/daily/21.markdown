@@ -4,7 +4,7 @@
 <div class="column_date">
 
 Class # 21 <br>
-Tue, 4/10
+Wed, 4/17
 
 </div>
 
