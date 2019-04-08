@@ -10,9 +10,7 @@ Thu, 4/5
 <div class="column_materials">
 <p markdown="block">
 
-Quiz (first 10 minutes of the class)
-
-Workshop day - progress on projects.
+Workshop day.
 
 
 </p>
@@ -20,7 +18,7 @@ Workshop day - progress on projects.
 
 <div class="column_assign">
 <p markdown="block">
-
+<!--
 Blog posts for this week:
 
 - report on the rescheduled open data week events, if you attended any
@@ -36,7 +34,7 @@ post the link to it.
 
 - You should also update your "contributions" table with any new contributions
 (do not include the team work in there).
-
+-->
 </p>
 </div>
 

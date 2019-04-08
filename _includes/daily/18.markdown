@@ -3,18 +3,19 @@
 <div class="column_date">
 
 Class # 18 <br>
-Thu, 3/29
+Mon, 4/8
 
 </div>
 
 <div class="column_materials">
 <p markdown="block">
 
-Linux basics, file system, scripting.
+- the Cathedral and the Bazaar discussion, [slides](slides/cathedral_bazaar_lessons.html)
+
+- the open source software business models, [slides](slides/business_models.html)
 
 
-[slides](https://docs.google.com/presentation/d/16_IA7T0sWS7FwyHHuJmtCVy7Jnc7s18eTjkk4kylwoc/preview#slide=id.p14) by
-Jeffrey Korn from CSCI-GA.2246-001 (Open Source Tools)
+
 
 
 
@@ -25,6 +26,7 @@ Jeffrey Korn from CSCI-GA.2246-001 (Open Source Tools)
 <div class="column_assign">
 <p markdown="block">
 
+<!--
 __Blog posts__:
 - come up with three questions for Danna for Tuesday
 - describe the progress that you group made in working on the project,
@@ -58,6 +60,7 @@ Make sure that you have __access to a Linux-like environment__:
 - for Windows, you can use the Ubuntu subsystem, setup a virtual machine or use
 Cloud 9 (talk to me if you need help with any of that - I have a virtual machine image
   that you can use, I also have a Cloud 9 team account that I can give you access to).
+-->
 
 </p>
 </div>

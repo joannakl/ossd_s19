@@ -4,15 +4,15 @@
 <div class="column_date">
 
 Class # 19 <br>
-Tue, 4/3
+Wed, 4/10
 
 </div>
 
 <div class="column_materials">
 <p markdown="block">
 
-Invited speaker: [Danna Kelmer](https://www.linkedin.com/in/dannakelmer/)
-- currently software engineer at Google.
+
+Workshop day.
 
 </p>
 </div>
