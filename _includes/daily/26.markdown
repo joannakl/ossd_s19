@@ -3,7 +3,7 @@
 <div class="column_date">
 
 Class # 26 <br>
-Thu, 4/26
+Mon, 5/6
 
 </div>
 
