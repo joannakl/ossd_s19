@@ -13,8 +13,10 @@ Wed, 5/8
 
 Project presentations:
 
-- django
-- therasology 
+-
+-
+-
+
 
 </p>
 </div>

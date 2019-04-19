@@ -13,9 +13,9 @@ Wed, 5/1
 
 Project presentations:
 
-- qutebrowser
-- phaser
-- jupyter
+-
+-
+-
 
 </p>
 </div>

@@ -1,28 +1,24 @@
 
-<div class="lecture2">
+<div class="change">
+
 <div class="column_date">
+<p markdown="block">
 
-Class # 26 <br>
-Mon, 5/6
 
+</p>
 </div>
 
 <div class="column_materials">
 <p markdown="block">
 
-Project presentations:
-
--
--
--
+May 17, final exam
 
 </p>
 </div>
 
+
 <div class="column_assign">
 <p markdown="block">
-
-
 </p>
 </div>
 

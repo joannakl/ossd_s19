@@ -11,7 +11,7 @@ Wed, 4/17
 <div class="column_materials">
 <p markdown="block">
 
-Invited speaker: Kevin Fleming. 
+Invited speaker: Kevin Fleming.
 
 </p>
 </div>
@@ -19,6 +19,20 @@ Invited speaker: Kevin Fleming.
 
 <div class="column_assign">
 <p markdown="block">
+
+
+
+Due by the end of this week (4/21):
+- complete the peer evaluations for your group members (link sent out through Piazza)
+- read the [inner source ](https://en.wikipedia.org/wiki/Inner_source) article on Wikipedia
+- blog about what you found the most interesting and the most surprising in the talk given by Kevin Fleming in class
+- blog about  your personal progress towards the team project: what have you done,
+what did you learn, what are the tasks that you will be working on next week
+- update the contributions page on your blog (do not include your team contributions there, but make sure that all of your own contributions are there)
+
+Due by the end of this week (4/21) as a team:
+- update the course wiki page for your project
+
 
 
 
