@@ -11,9 +11,7 @@ Wed, 4/24
 <div class="column_materials">
 <p markdown="block">
 
-Team work on projects.
-
-Progress reports.
+Workshop day
 
 </p>
 </div>

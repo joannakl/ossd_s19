@@ -9,7 +9,7 @@ Mon, 4/29
 
 <div class="column_materials">
 <p markdown="block">
-
+<!--
 (Software) Licenses
 
 [slides](slides/week12/licenses.html)
@@ -30,7 +30,7 @@ Reading list:
 by Ben Cotton
 
 
-
+-->
 
 </p>
 </div>
@@ -38,6 +38,7 @@ by Ben Cotton
 <div class="column_assign">
 <p markdown="block">
 
+<!--
 Complete __peer evaluations__ the link was sent to you through Piazza.
 
 
@@ -63,7 +64,7 @@ __Presentation content:__
 - how easy was it to collaborate within the team
 - if you were doing this again, would you pick the same or different project
 
-
+-->
 
 
 
