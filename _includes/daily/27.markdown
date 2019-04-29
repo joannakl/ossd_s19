@@ -13,9 +13,9 @@ Wed, 5/8
 
 Project presentations:
 
--
--
--
+- SciKit Learn
+- Gatsby
+- FreeCodeCamp, team 1
 
 
 </p>

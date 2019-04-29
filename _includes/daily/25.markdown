@@ -13,9 +13,9 @@ Wed, 5/1
 
 Project presentations:
 
--
--
--
+- Caprine
+- Home Assistant
+- FreeCodeCamp, team 2
 
 </p>
 </div>

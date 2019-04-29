@@ -12,9 +12,9 @@ Mon, 5/6
 
 Project presentations:
 
--
--
--
+- Beagle
+- Blockly
+- Vue.js 
 
 </p>
 </div>

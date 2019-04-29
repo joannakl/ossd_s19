@@ -13,8 +13,8 @@ Mon, 5/13
 
 Project presentations:
 
--
--
+- Material UI 
+- React Native
 
 
 
