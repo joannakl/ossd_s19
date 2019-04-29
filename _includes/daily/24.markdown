@@ -9,28 +9,15 @@ Mon, 4/29
 
 <div class="column_materials">
 <p markdown="block">
-<!--
-(Software) Licenses
 
-[slides](slides/week12/licenses.html)
+Git workflow practice: fetch vs pull, merge vs. rebase, working with multiple branches.
 
-Reading list:
+[activity](slides/git-workflow.html)
 
-- [OSI Frequently Answered Questions](https://opensource.org/faq)
+Resources:
 
-- Wikipedia articles:
-  - [Software license](https://en.wikipedia.org/wiki/Software_license#Software_licenses_and_copyright_law)
-  - [Copyleft license](https://en.wikipedia.org/wiki/Copyleft)
-  - [Permissive software license](https://en.wikipedia.org/wiki/Permissive_software_licence)
-
-- [The Legal Side of Open Source](https://opensource.guide/legal/)
-
-
-- [What is copyleft?](https://opensource.com/resources/what-is-copyleft)
-by Ben Cotton
-
-
--->
+- [Collaboration Workflow Basics](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci395.86/slides/collaborating_workflows.html#1) slides by Stewart Weiss
+- - [Atlassian BitBucket Tutorial: Fetching](https://www.atlassian.com/git/tutorials/syncing/git-fetch)
 
 </p>
 </div>

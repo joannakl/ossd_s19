@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Git Activity</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+    <link href="css/slides.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# CSCI-UA 480.10: OSSD
+
+<br>
+
+## Git Activity
+### `fetch` vs `pull`, `megere` vs `rebase`, working with multiple branches
+
+.author[
+Instructor: Joanna Klukowska <br>
+]
+
+.license[
+Unless noted otherwise all content is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+]
+
+
+---
+
+- On your local machine clone the following repository
+  `https://github.com/nyu-ossd-s19/demo`
+  from the course organization.
+
+  ```bash
+    git clone https://github.com/nyu-ossd-s19/demo
+  ```
+
+
+
+The repository is a skeleton with which we will be working. It contains
+two branches, one named `master` and one named  `feature1`.
+
+For the rest of these instructions, we will assume that the name
+of the repository that you created is `demo`.
+
+---
+
+- In your browser navigate to the course organization and create
+a brand new empty repository called  `<your-github-name>-git-exercise`.
+
+  Make it public and do not initialize it with any files.
+
+  (__DO NOT click _Create repository_ just yet.__)
+
+- On the page that is then displayed, choose the option
+
+  `...or push an existing repository from the command line`
+
+  and copy the command-line instructions for that option to your clipboard.
+
+- Execute these instructions from within your local repository `demo`.
+
+  - This will overwrite the previous `origin` remote.
+
+      Verify this by executing
+      ```bash
+      git remote -v
+      ```
+      (the `origin` should now point to the remote repository that includes
+      your GitHub name)
+
+  - This also pushes the `master` branch to the remote repository.
+
+---
+
+## `git` visualization tools
+
+There are many tools that allow you to visualize the branch structure
+of a `git` repository.  Some examples are,
+
+  - gitg
+
+  - qgit
+
+  - gitk
+
+We can also do it on GitHub (when the branches that we are visualizing are
+there) using the _Insights_ tab and selecting _Network_ on the right.
+
+Finally, we can do it in a console using just `git` by running
+
+```bash
+git log --graph --oneline --all
+```
+
+--
+
+Use one of these options to view the branches in your local `demo` repository.
+
+
+---
+
+__Let's make our remote repository on GitHub a bit more interesting__
+
+- We will create a few commits on GitHub so that
+your local  `master` branch will be __behind the `origin/master`
+remote branch__.
+
+  To do this, you will create two files on GitHub, put
+  some text into them and commit them. Name these files
+
+  - `gh_file1`
+  - `gh_file2`
+
+  Their content can be whatever you want. You can also use the default commit message.
+
+---
+
+- Now you will create a new feature branch on GitHub, __not on your
+local machine__.
+
+  To do this,
+  - locate the button on the left-hand side of the screen that displays
+  the text "branch: master".
+  - click that button once and a pop-up window will be displayed that has an empty text
+  box with the text "`find or create a branch`" as well as a list of your repository's existing branches below it.
+  - in that text box, type  `feature2`
+  - anothed small pop-up window will be displayed
+  with the text "`Create branch: feature2 from master`"
+  - click the box
+
+
+--
+
+- Make sure that you are on `feature2` branch on GitHub and create two new files in it
+
+  - `feature2_file1`
+  - `feature2_file2`
+
+
+You now have a feature branch on GitHub that is __ahead of the `master` branch__ on
+GitHub by two commits.
+
+- Use the _Insights_ tab and _Network_ to see the structure of branches on GitHub.
+(Note that your local branch `feature1` is not there.)
+
+---
+__Optional__
+
+- Create yet another branch on GitHub called `exploratory`
+
+- Create two files called
+
+  - `option1`
+  - `option2`
+
+
+
+  - Use the _Insights_ tab and _Network_ to see the structure of branches on GitHub.
+
+---
+
+We will now simulate what happens when you and your team members have
+been working independently. Although you just created a bunch of files yourself
+on GitHub, this could have also been the result of your team members pushing
+their own changes up to the common repository. That is how you should think
+of it for now: the files and commits you made on GitHub are really the work
+of others that took place concurrently with what you are about to do.
+
+---
+
+- Create a few more files in the `feature1` branch in your
+repository. This simulates your working on your own on the feature branch.
+
+  - Check out the `feature1` branch in your repository:
+    ```bash
+      git checkout feature1
+    ```
+
+  - If you are running `bash`, you can use the following `bash` `for` loop to create,
+    add to the repository and commit new files
+
+    ```bash
+      $ for i in 3 4 5 ; do
+           echo "feature1_${i}" > feature1_${i}
+           git add feature1_${i}
+           git commit . -m "added feature1_${i}"
+        done
+    ```
+
+    Alternatively, you can do this manually:
+    - create a file called `feature1_3`
+    - add it to the staging area: `git add feature1_3`
+    - commit the change: `git commit -m added feature1_3`
+    and the same for `feature1_4` and `feature1_5` files
+
+
+
+
+
+Your `feature1` branch is now several commits ahead of the master.
+
+
+---
+
+- Visualize the current state of your local repository.
+
+---
+
+You want to  pull down the work that has been done from the upstream, but
+you __will not__ use the `git pull` command to do this. You will use `git fetch`.
+
+
+- Fetch upstream `master` branch for now, the one that is _tracked_
+by your local `master` branch, and the one that is known locally as
+`origin/master`. Enter the following two commands. You will see messages from
+Git that we will ignore for now.
+
+  ```bash
+    git checkout master
+    git fetch origin master
+  ```
+
+
+- Look at the content of the current working directory - it did not change (i.e.,
+the new files from the `master` branch on GitHub have not yet been incorporated)
+
+- Visualize the current state of your local repository again. You should be able to
+see the information about the commits make in the remote branch.
+
+
+
+__Fetching brings down the data from the upstream but it does not modify your
+working directory. This is often safer than just pulling which does not give you
+a chance to verify the commits that have been applied to the branches__.
+
+---
+
+- We will do a __fast-forward__ merge to move the `master` branch up to date
+with `origin/master`. This is done by executing
+
+    ```bash
+    git merge origin/master
+    ```
+
+- Look at your working directory again and see that the files are
+there! The `merge` updates the working directory.
+
+---
+
+Now it is time to integrate the work on the `feature1` branch with
+the upstream changes from the `master` branch. But we will not use `merge`.
+This is a perfect chance to practice rebasing.
+
+- Visualize the current state of your local repository.
+
+- To rebase (i.e., apply the changes in feature1 on top of the current master)
+  - first checkout the `feature1` branch
+      ```bash
+      git checkout feature1
+      ```
+  - and then exete
+      ```bash
+      git rebase master
+      ```
+
+- Visualize the current state of your local repository again.
+
+The history that you see now is linear; your `feature1` branch is
+just a chain,  a few commits ahead of the `master` (and `origin/master`)
+branch.
+
+---
+
+Suppose now that the team member who was responsible for developing
+`feature2` contacts everyone and says that the version of `feature2` on the
+server is final and can be merged into the `master` branch. She asks you if you
+can do her the favor, since you already have the most recent `master` on your
+local machine, of fetching the `feature2` branch and integrating it into your
+local copy, after which it can be pushed back up to the upstream. You agree
+to do this.
+
+---
+
+To do so, you will need to
+
+- Fetch that upstream `feature2` branch and merge it in.
+We will use the `fetch/merge` approach to do this. We fetch the `feature2` branch:
+
+  ```bash
+    $ git fetch origin feature2
+  ```
+
+- Visualize the current state of your local repository to see the branch `origin/feature2`
+listed there now.
+
+  The `feature2` branch tip is two commits ahead of `master`.
+
+- Create a local branch that is tracking the changes in the remote `origin/feature2` branch:
+
+  ```bash
+   git checkout -b feature2 origin/feature2
+  ```
+
+Because `master` is an ancestor of `feature2` and not on a different part
+of the tree, we can do a __fast-forward merge__ to __integrate the feature into the
+master branch__.
+
+- switch to the `master` branch to do a fast-forward merge:
+
+    ```bash
+    git checkout master
+    git merge feature2
+    ```
+
+- Visualize the current state of your local repository to see the most recent changes.
+
+---
+
+
+Notice that  `feature1` is no longer ahead of `master`; they are not on the same linear path.
+  In other words, `feature1` no longer is based on the most recent version of the `master`
+  branch.
+
+
+Our last task should be to fix this. We will __rebase__ our `feature1` branch
+on `master` again.
+
+What are the instructions that will do this?
+
+--
+
+```bash
+git checkout feature1
+git rebase master
+```
+
+
+---
+
+__Optional__
+
+If you created the optional `exploratory` branch on GitHub, you fetch it for the
+purpose of seeing what is happening on that branch (for example, to see what you team
+makes are working on).
+
+```bash
+git fetch origin exploratory
+```
+
+You can look at the files in that remote branch without creating a local branch dedicated
+to it.
+
+```bash
+$ git checkout origin/exploratory
+Note: checking out 'origin/exploratory'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by performing another checkout.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -b with the checkout command again. Example:
+
+  git checkout -b <new-branch-name>
+
+HEAD is now at ec96968 Create option2
+```
+
+---
+
+
+
+By doing this we can examine the files, which _are_ in our working directory.
+If we want to do any work and be able to make commits, we need to follow Git's
+advice and create a new tracking branch.
+
+But if you were just looking and now you are ready to go back to your
+existing local branches, you can simply execute
+
+```bash
+git checkout master
+```
+
+to return to the _attached_ HEAD state.
+
+---
+
+
+
+
+
+
+    </textarea>
+     <script src="js/remark.js" type="text/javascript">
+    </script>
+    <script src="js/remark_conf.js" type="text/javascript">
+    </script>
+
+  </body>
+</html>

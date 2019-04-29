@@ -12,6 +12,16 @@ Mon, 4/22
 
 Mini-exam 4
 
+Git discussion: merge vs. rebase (what are they, how are
+they different, when to use which).
+
+Resources:
+- [Git Tutorial: Merging and Rebasing](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci395.86/slides/git_merge_rebase.html#1) slides by Stewart Weiss
+
+- [Atlassian BitBucket Tutorial: Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
+
+
 <!--- the open source software business models, [slides](slides/business_models.html)
 
 -->
