@@ -17,7 +17,7 @@ Git workflow practice: fetch vs pull, merge vs. rebase, working with multiple br
 Resources:
 
 - [Collaboration Workflow Basics](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci395.86/slides/collaborating_workflows.html#1) slides by Stewart Weiss
-- - [Atlassian BitBucket Tutorial: Fetching](https://www.atlassian.com/git/tutorials/syncing/git-fetch)
+- [Atlassian BitBucket Tutorial: Fetching](https://www.atlassian.com/git/tutorials/syncing/git-fetch)
 
 </p>
 </div>
