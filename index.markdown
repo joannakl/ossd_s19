@@ -51,7 +51,7 @@ This course prepares students to become active participants in open source proje
 <iframe width="560" height="315"  style="float:right" src="https://www.youtube.com/embed/7c0IrsDsNaw" frameborder="10" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-- [Webopedia](http://www.webopedia.com/TERM/S/software.html) : software definition, software vs. hardware
+- [Webopedia](http://www.webopedia.com/TERM/S/software.html): software definition, software vs. hardware
 
 -  [Computer Science Education in the 21st Century](http://goo.gl/400cMX) by David A. Patterson, Commun. ACM 49, (3): 27-30 (March, 2006)
 
@@ -61,7 +61,7 @@ is a report on jobs in the open source world in 2018.
 -  [The Rise of Open-Source Platform](http://www.enterprisetech.com/2015/11/12/the-rise-of-the-open-source-platform/)
 
 
-- [Open Source Software No Longer Optional](https://cacm.acm.org/magazines/2016/8/205050-open-source-software-no-longer-optional/fulltext) By Gary Anthes, Communications of the ACM, Vol. 59 No. 8, Pages 15-17, 10.1145/2949684
+- [Open Source Software No Longer Optional](https://cacm.acm.org/magazines/2016/8/205050-open-source-software-no-longer-optional/fulltext) by Gary Anthes, Communications of the ACM, Vol. 59 No. 8, Pages 15-17, 10.1145/2949684
 
 - [Open Source to the Core](http://queue.acm.org/detail.cfm?id=1005064)  by Jordan Hubbard, ACM Queue, June 14, 2004, Volume 2, issue 3
 
